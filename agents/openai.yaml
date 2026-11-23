@@ -1,0 +1,4 @@
+interface:
+  display_name: "Highlight Research PDF"
+  short_description: "Mark key sentences and research claims in PDFs"
+  default_prompt: "Use $highlight-research-pdf to highlight the attached research paper."
