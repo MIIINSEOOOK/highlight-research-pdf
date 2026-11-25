@@ -1,4 +1,4 @@
-<h1 align="center"><img src="docs/images/banner.jpg" alt="Highlight Research PDF"></h1>
+<img width="2172" height="603" alt="banner" src="https://github.com/user-attachments/assets/0bd25ce3-9bfd-4d55-92ec-bc39dbd06022" />
 
 > **My professor wants a literature review. GTA 6 wants my evening.**<br>
 > Close the AI chat. The highlights stay in the paper.
@@ -9,8 +9,8 @@ Give Codex a research paper. The skill picks full sentences from the original te
 
 | Color | What it marks |
 | :--- | :--- |
-| **🟨&nbsp;Yellow** | The sentence that best captures the point of a substantive paragraph. The highlight has no comment. |
-| **🟩&nbsp;Green** | Sentences that state a **Problem Statement**, **Research Gap**, **Research Question**, **Methodology**, **Results**, **Contribution to Knowledge**, or **Practical Significance**. The highlight comment carries the matching label or labels. |
+| **🟨&nbsp;Yellow** | The sentence that best captures the point of a substantive paragraph. |
+| **🟩&nbsp;Green** | Sentences that state a **Problem Statement**, **Research Gap**, **Research Question**, **Methodology**, **Results**, **Contribution to Knowledge**, or **Practical Significance**. |
 
 If a paragraph's key sentence also serves a research role, it gets a single green highlight.
 
@@ -20,7 +20,9 @@ The same page before and after highlighting. Select either image to see it at fu
 
 | Before · Original PDF | After · Annotated PDF |
 | :---: | :---: |
-| [![Page 11 of the paper before annotation](docs/images/before.png)](docs/images/before.png) | [![The same page with yellow takeaways and green research statements](docs/images/after.png)](docs/images/after.png) |
+| <img width="629" height="891" alt="before" src="https://github.com/user-attachments/assets/d8dc3f48-1020-4052-a82c-ebca2800114a" />
+ | <img width="629" height="895" alt="after" src="https://github.com/user-attachments/assets/630a6f42-7831-4bd9-9b42-5a1850d2fd00" />
+ |
 
 ## Read and take notes in Zotero
 
@@ -65,9 +67,3 @@ python scripts/annotate.py input.pdf selections.json highlighted.pdf
 ```
 
 Choose a new output filename. For scans and rotated text, see the OCR and layout guidance in [SKILL.md](SKILL.md).
-
-## Screenshot credits
-
-The PDF example uses page 11 of Aleksić, Mandić, and Ivanović (2025), with highlights added in the after and Zotero views. [Paper](https://doi.org/10.3390/educsci15121582) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-The right-hand note in the Zotero screenshot shows figures from Hector Buyones-Gonzalez and Monica Quezada-Espinoza (Universidad Andrés Bello, Chile), presented at the 2024 ASEE Annual Conference & Exposition in Portland, Oregon. © 2024 American Society for Engineering Education. [ASEE paper](https://peer.asee.org/artificial-intelligence-in-the-construction-industry-a-competency-based-examination-through-expert-lens)
