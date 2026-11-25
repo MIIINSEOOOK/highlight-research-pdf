@@ -1,6 +1,4 @@
-<h1 align="center">Highlight Research PDF</h1>
-
-![A stack of research papers with yellow and green highlights beside an open notebook](docs/images/banner.jpg)
+<h1 align="center"><img src="docs/images/banner.jpg" alt="Highlight Research PDF"></h1>
 
 > **My professor wants a literature review. GTA 6 wants my evening.**<br>
 > Close the AI chat. The highlights stay in the paper.
