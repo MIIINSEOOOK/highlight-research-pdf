@@ -28,7 +28,8 @@ The same page before and after highlighting. Select either image to see it at fu
 2. **Import.** Attach the copy to the paper's Zotero entry and open it in the Zotero PDF reader. Choose **File → Import Annotations…** to make the highlights editable in Zotero. [Zotero documentation](https://www.zotero.org/support/kb/annotations_in_database#interacting_with_embedded_annotations)
 3. **Read with Notes open.** Use the left Annotations pane to jump to a passage and the right Notes pane to write as you read. Drag a highlight into your note to keep a link to the passage. Then write your own take, such as how the authors' evidence supports the claim or where you would use it in your review. [Zotero PDF Reader and Note Editor](https://www.zotero.org/support/pdf_reader)
 
-[![Zotero with the annotation list on the left, the highlighted PDF in the center, and a note open on the right](docs/images/zotero-reading.png)](docs/images/zotero-reading.png)
+<img width="1919" height="1030" alt="zotero-reading" src="https://github.com/user-attachments/assets/2005628f-c4d2-46e6-8785-445c92eb3507" />
+
 
 *A reading setup with annotations on the left, the paper in the middle, and notes on the right.*
 
