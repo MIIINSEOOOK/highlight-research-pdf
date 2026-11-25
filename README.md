@@ -2,10 +2,10 @@
 
 ![A stack of research papers with yellow and green highlights beside an open notebook](docs/images/banner.jpg)
 
+<a name="readme-languages"></a>
+
 <details name="readme-language">
 <summary><kbd>한국어</kbd></summary>
-
-<a name="korean-readme"></a>
 
 [<kbd>English</kbd>](#user-content-english-readme)
 
