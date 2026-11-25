@@ -20,9 +20,7 @@ The same page before and after highlighting. Select either image to see it at fu
 
 | Before · Original PDF | After · Annotated PDF |
 | :---: | :---: |
-| <img width="629" height="891" alt="before" src="https://github.com/user-attachments/assets/d8dc3f48-1020-4052-a82c-ebca2800114a" />
- | <img width="629" height="895" alt="after" src="https://github.com/user-attachments/assets/630a6f42-7831-4bd9-9b42-5a1850d2fd00" />
- |
+| <img width="629" height="891" alt="before" src="https://github.com/user-attachments/assets/d8dc3f48-1020-4052-a82c-ebca2800114a" /> | <img width="629" height="895" alt="after" src="https://github.com/user-attachments/assets/630a6f42-7831-4bd9-9b42-5a1850d2fd00" />|
 
 ## Read and take notes in Zotero
 
